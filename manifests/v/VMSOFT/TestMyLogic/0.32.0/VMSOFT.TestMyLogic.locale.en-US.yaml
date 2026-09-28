@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.10.0.schema.json
 PackageIdentifier: VMSOFT.TestMyLogic
-PackageVersion: 0.9.1
+PackageVersion: 0.32.0
 PackageLocale: en-US
 Publisher: 비전측정소프트(VMSOFT)
 PublisherUrl: https://www.testmylogic.com
@@ -9,6 +9,7 @@ PrivacyUrl: https://www.testmylogic.com/privacy
 PackageName: TestMyLogic
 PackageUrl: https://www.testmylogic.com
 License: Proprietary
+LicenseUrl: https://www.testmylogic.com/terms
 Copyright: © 비전측정소프트(VMSOFT)
 ShortDescription: Overfitting validation for crypto trading strategies — PBO, walk-forward analysis and trade diagnostics, computed locally.
 Description: |-
